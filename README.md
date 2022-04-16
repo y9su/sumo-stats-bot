@@ -33,4 +33,4 @@ This project uses a number of libaries to work properly:
 
 **See [Hypixel Sumo Stats] for the webhook version of this project!**
 
-Credit to [sarth] for aiohttp part of this code!
+Credit to [sarth] for the aiohttp part of this code!
