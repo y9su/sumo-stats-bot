@@ -27,7 +27,10 @@ This project uses a number of libaries to work properly:
    [datetime]: <https://docs.python.org/3/library/datetime.html>
    [aiohttp]: <https://docs.aiohttp.org/en/stable/>
    [Hypixel Sumo Stats]: <https://github.com/y9su/hypixel-sumo-stats>
+   [sarth]: <https://github.com/sarthhh/gojo/>
 
 **Written in Python**
 
 **See [Hypixel Sumo Stats] for the webhook version of this project!**
+
+Credit to [sarth] for aiohttp part of this code!
