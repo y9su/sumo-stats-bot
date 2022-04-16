@@ -26,6 +26,8 @@ This project uses a number of libaries to work properly:
    [discord]: <https://discordpy.readthedocs.io/en/stable/>
    [datetime]: <https://docs.python.org/3/library/datetime.html>
    [aiohttp]: <https://docs.aiohttp.org/en/stable/>
+   [Hypixel Sumo Stats]: <https://github.com/y9su/hypixel-sumo-stats>
 
 **Written in Python**
 
+**See [Hypixel Sumo Stats] for the webhook version of this project!**
